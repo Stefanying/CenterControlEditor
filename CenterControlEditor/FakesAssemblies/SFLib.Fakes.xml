@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SFLib.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:SFLib.Fakes.ShimComLib">
+            <summary>SFLib.ComLib 的填充码类型</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimComLib.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimComLib.#ctor(SFLib.ComLib)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimComLib.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimComLib.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimComLib.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimComLib.Constructor">
+            <summary>设置 ComLib.ComLib() 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimComLib.SendComDataStringInt32Int32Int32StringByteArray">
+            <summary>设置 ComLib.SendComData(String targetPort, Int32 baudrate, Int32 databit, Int32 stopbit, String partiy, Byte[] bufferData) 的 填充码</summary>
+        </member>
+        <member name="T:SFLib.Fakes.ShimComLib.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="T:SFLib.Fakes.ShimIniFile">
+            <summary>SFLib.IniFile 的填充码类型</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimIniFile.#ctor">
+            <summary>初始化新的填充码实例</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimIniFile.#ctor(SFLib.IniFile)">
+            <summary>初始化给定实例的新填充码</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimIniFile.BehaveAsCurrent">
+            <summary>为已填充的类型的所有方法分配“Current”行为</summary>
+        </member>
+        <member name="M:SFLib.Fakes.ShimIniFile.BehaveAsNotImplemented">
+            <summary>为已填充的类型的所有方法分配“NotImplemented”行为</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.Behavior">
+            <summary>为已填充的类型的所有方法分配行为</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.ConstructorString">
+            <summary>设置 IniFile.IniFile(String filename) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.IsFileExit">
+            <summary>设置 IniFile.IsFileExit() 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.ReadBoolStringStringBoolean">
+            <summary>设置 IniFile.ReadBool(String section, String key, Boolean defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.ReadFloatStringStringSingle">
+            <summary>设置 IniFile.ReadFloat(String section, String key, Single defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.ReadIntegerStringStringInt32">
+            <summary>设置 IniFile.ReadInteger(String section, String key, Int32 defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.ReadStringStringStringString">
+            <summary>设置 IniFile.ReadString(String section, String key, String defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.ReadValueStringString">
+            <summary>设置 IniFile.ReadValue(String section, String key) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.WriteBoolStringStringBoolean">
+            <summary>设置 IniFile.WriteBool(String section, String key, Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.WriteFloatStringStringSingle">
+            <summary>设置 IniFile.WriteFloat(String section, String key, Single value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.WriteIntegerStringStringInt32">
+            <summary>设置 IniFile.WriteInteger(String section, String key, Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.WriteStringStringStringString">
+            <summary>设置 IniFile.WriteString(String section, String key, String value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.WriteValueStringStringString">
+            <summary>设置 IniFile.WriteValue(String section, String key, String value) 的 填充码</summary>
+        </member>
+        <member name="T:SFLib.Fakes.ShimIniFile.AllInstances">
+            <summary>为所有实例成员定义填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.IsFileExit">
+            <summary>设置 IniFile.IsFileExit() 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.ReadBoolStringStringBoolean">
+            <summary>设置 IniFile.ReadBool(String section, String key, Boolean defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.ReadFloatStringStringSingle">
+            <summary>设置 IniFile.ReadFloat(String section, String key, Single defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.ReadIntegerStringStringInt32">
+            <summary>设置 IniFile.ReadInteger(String section, String key, Int32 defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.ReadStringStringStringString">
+            <summary>设置 IniFile.ReadString(String section, String key, String defualt) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.ReadValueStringString">
+            <summary>设置 IniFile.ReadValue(String section, String key) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.WriteBoolStringStringBoolean">
+            <summary>设置 IniFile.WriteBool(String section, String key, Boolean value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.WriteFloatStringStringSingle">
+            <summary>设置 IniFile.WriteFloat(String section, String key, Single value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.WriteIntegerStringStringInt32">
+            <summary>设置 IniFile.WriteInteger(String section, String key, Int32 value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.WriteStringStringStringString">
+            <summary>设置 IniFile.WriteString(String section, String key, String value) 的 填充码</summary>
+        </member>
+        <member name="P:SFLib.Fakes.ShimIniFile.AllInstances.WriteValueStringStringString">
+            <summary>设置 IniFile.WriteValue(String section, String key, String value) 的 填充码</summary>
+        </member>
+        <member name="T:SFLib.Fakes.StubComLib">
+            <summary>SFLib.ComLib 的存根类型</summary>
+        </member>
+        <member name="M:SFLib.Fakes.StubComLib.#ctor">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:SFLib.Fakes.StubComLib.InitializeStub">
+            <summary>初始化 type StubComLib 的新实例</summary>
+        </member>
+        <member name="P:SFLib.Fakes.StubComLib.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:SFLib.Fakes.StubComLib.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:SFLib.Fakes.StubComLib.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+        <member name="T:SFLib.Fakes.StubIniFile">
+            <summary>SFLib.IniFile 的存根类型</summary>
+        </member>
+        <member name="M:SFLib.Fakes.StubIniFile.#ctor(System.String)">
+            <summary>初始化新实例</summary>
+        </member>
+        <member name="M:SFLib.Fakes.StubIniFile.InitializeStub">
+            <summary>初始化 type StubIniFile 的新实例</summary>
+        </member>
+        <member name="P:SFLib.Fakes.StubIniFile.CallBase">
+            <summary>获取或设置一个值，该值指示是否应调用基方法而不调用回退行为</summary>
+        </member>
+        <member name="P:SFLib.Fakes.StubIniFile.InstanceBehavior">
+            <summary>获取或设置实例行为。</summary>
+        </member>
+        <member name="P:SFLib.Fakes.StubIniFile.InstanceObserver">
+            <summary>获取或设置实例观察者。</summary>
+        </member>
+    </members>
+</doc>

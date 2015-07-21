@@ -1,0 +1,9 @@
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\b\SFLib.Fakes.xml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\b\SFLib.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\b\SFLib.Fakes.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\b\SFLib.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\b\SFLib.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\o\f.csprojResolveAssemblyReference.cache
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\o\SFLib.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\Fakes\sfl\o\SFLib.Fakes.pdb

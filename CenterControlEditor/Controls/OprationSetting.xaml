@@ -1,0 +1,136 @@
+﻿<Window x:Class="CenterControlEditor.Controls.OprationSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:CenterControlEditor.Controls"
+        Title="OprationSetting" Height="700" Width="450"  WindowStyle="None"  WindowStartupLocation="CenterScreen" ResizeMode="NoResize"   >
+    
+    <Window.Resources>
+        <ResourceDictionary Source="../Styles.xaml"></ResourceDictionary>
+    </Window.Resources>
+    
+    
+    <Grid  Background="Transparent"  MouseMove="Grid_MouseMove_1" >
+        <Border x:Name="Border" CornerRadius="10,10,10,10" BorderThickness="1" BorderBrush="#FFE2DFDF"   >
+            <Grid ClipToBounds="True">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="6*"  />
+                    <RowDefinition Height="94*" />
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+                    <Image Stretch="Fill" x:Name="Close" 
+                           VerticalAlignment="Center" HorizontalAlignment="Right" 
+                           Margin="0,5,25,5" Width="{Binding ElementName=Close, Path=ActualHeight}" 
+                           Source="/CenterControlEditor;component/Image/DialogClose.png"
+                            Style="{StaticResource ImageShine}" MouseDown="btnCancel_Click" />
+                </Grid>
+
+                <Grid Grid.Row="1" Background="#FF499BD3" >
+                    <Label    Content="名称："  Foreground="White"
+                              VerticalAlignment="Top"
+                              HorizontalAlignment="Left"
+                              FontSize="22" Margin="20,30,0,0 "
+                        />
+                    <TextBox Width="150" Height="35" 
+                             Margin="162,30,0,0" 
+                             Style="{StaticResource RadiusTextBoxStyle}"  
+                             VerticalAlignment="Top" HorizontalAlignment="Left"
+                             x:Name="tbName"
+                        />
+                    <Label Content="通信方式：" Foreground="White"
+                           VerticalAlignment="Top"
+                           HorizontalAlignment="Left"
+                           FontSize="22" Margin="20,110,0,0"
+                           />
+
+                    <ComboBox  Width="150" Height="35"
+                                VerticalAlignment="Top"
+                                HorizontalAlignment="Left"
+                                Margin="162,110,0,0" 
+                                x:Name="cbOprationType" Background="White" FontSize="20" >
+                        <ComboBoxItem FontSize="20" FontFamily="Adobe Heiti Std R">TCP</ComboBoxItem>
+                        <ComboBoxItem FontSize="20" FontFamily="Adobe Heiti Std R">UDP</ComboBoxItem>
+                        <ComboBoxItem FontSize="20" FontFamily="Adobe Heiti Std R">串口</ComboBoxItem>
+
+
+                    </ComboBox>
+                   
+                    <Label Content="配置：" Foreground="White"
+                           VerticalAlignment="Top"
+                           HorizontalAlignment="Left"
+                           FontSize="22" Margin="20,180,0,0"
+                           />
+                    <Image  Width="89" Height="38"  x:Name="SettingButton" 
+                            Source="/CenterControlEditor;component/Image/set.png"
+                            Stretch="Fill" Style="{StaticResource ImageShine}"
+                            VerticalAlignment="Top"
+                            HorizontalAlignment="Left"
+                            Margin="162,180,0,0"  
+                            MouseDown="btnSetting_Click"
+                            />
+                    
+                    <Label      Content="数据类型：" Foreground="White"
+                                VerticalAlignment="Top"
+                                HorizontalAlignment="Left"
+                                FontSize="22" Margin="20,247,0,0"
+                        />
+
+                    <ComboBox   Width="150" Height="35"
+                                VerticalAlignment="Top"
+                                HorizontalAlignment="Left"
+                                Margin="162,247,0,0" 
+                                x:Name="cbDataType"
+                                Background="White" FontSize="20">
+                     <ComboBoxItem FontSize="20" FontFamily="Adobe Heiti Std R">十六进制</ComboBoxItem>
+                     <ComboBoxItem FontSize="20" FontFamily="Adobe Heiti Std R">字符串</ComboBoxItem>                
+                    </ComboBox>
+
+                    <Label Content="数据内容:" Foreground="White"
+                           VerticalAlignment="Top"
+                           HorizontalAlignment="Left"
+                           FontSize="22" Margin="20,302,0,0"
+                           />
+                    <Controls:TextEdit  Width="200" Height="160"  
+                              VerticalAlignment="Top"
+                              HorizontalAlignment="Left"
+                              Margin="160,317,0,0"
+                              x:Name="tbData"/>
+                    
+                    <Label  Content="延迟执行:" Foreground="White"
+                            VerticalAlignment="Top"
+                            HorizontalAlignment="Left"
+                            FontSize="22" Margin="20,521,0,0"
+                            />
+                    <TextBox  Width="150" Height="35"
+                              VerticalAlignment="Top"
+                              HorizontalAlignment="Left"
+                              Margin="160,519,0,0" Style="{StaticResource RadiusTextBoxStyle}"
+                              x:Name="tbTime" Text="0"
+                              />
+                    <Label Content="（毫秒）" Foreground="White" 
+                           VerticalAlignment="Top"
+                           HorizontalAlignment="Right"
+                           FontSize="22"  Margin="0,517,50,0"
+                           />
+                    <Image   Width="89" Height="38"
+                             Source="/CenterControlEditor;component/Image/DialogOk.png"
+                             Stretch="Fill"
+                             VerticalAlignment="Top"
+                             HorizontalAlignment="Left"
+                             Margin="120,597,0,0" Style="{StaticResource ImageShine}"
+                             MouseDown="btnOk_Click"
+                        />
+                    <Image    Width="89" Height="38"
+                              Source="/CenterControlEditor;component/Image/Cancel.png"
+                              Stretch="Fill"
+                              VerticalAlignment="Top"
+                              HorizontalAlignment="Left"
+                              Margin="300,596,0,0"  Style="{StaticResource ImageShine}"
+                              MouseDown="btnCancel_Click"
+                              />                             
+                </Grid>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

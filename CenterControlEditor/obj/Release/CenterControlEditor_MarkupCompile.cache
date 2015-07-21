@@ -1,0 +1,20 @@
+﻿CenterControlEditor
+
+
+winexe
+C#
+.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Release\
+CenterControlEditor
+none
+false
+TRACE
+E:\source code\CenterControlEditor\CenterControlEditor\App.xaml
+23-734357501
+
+33-728046777
+15-1803782439
+Controls\ActionContainer.xaml;Controls\ActionSetting.xaml;Controls\AreaContainer.xaml;Controls\AreaSetting.xaml;Controls\EnSureBox.xaml;Controls\IPInput.xaml;Controls\IPSetting.xaml;Controls\MainButton.xaml;Controls\MenuButton.xaml;Controls\OprationContainer.xaml;Controls\OprationSetting.xaml;Controls\OrderActionContainer.xaml;Controls\OrderAreaContainer.xaml;Controls\OrderToolBar.xaml;Controls\SerialPortSetting.xaml;Controls\SettingButton.xaml;Controls\SettingContainer.xaml;Controls\TextEdit.xaml;Controls\UserAction.xaml;Controls\UserArea.xaml;Controls\UserOpration.xaml;MainWindow.xaml;Styles.xaml;
+
+False
+

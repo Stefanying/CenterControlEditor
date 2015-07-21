@@ -1,0 +1,47 @@
+﻿<Window x:Class="CenterControlEditor.Controls.AreaSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AreaSetting" WindowStyle="None" ResizeMode="NoResize" Width="374" Height="266" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <ResourceDictionary Source="../Styles.xaml"></ResourceDictionary>
+    </Window.Resources>
+    <Grid Background="Transparent" MouseMove="MoveThis"  >
+        <Border x:Name="Border"  CornerRadius="10,10,10,10"  BorderThickness="1"  BorderBrush="#FFE2DFDF" >
+            <Grid  ClipToBounds="True">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="14*" />
+                    <RowDefinition Height="86*" />
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0">
+                    <Image Stretch="Fill" x:Name="Close" 
+                           VerticalAlignment="Center" HorizontalAlignment="Right" 
+                           Margin="0,5,25,5" Width="{Binding ElementName=Close, Path=ActualHeight}" 
+                           Source="/CenterControlEditor;component/Image/DialogClose.png"
+                            Style="{StaticResource ImageShine}" MouseDown="SetCancel"/>
+                </Grid>
+
+                <Grid Grid.Row="1" Background="#FF499BD3">
+                    <Label Content="展项名称:" Foreground="White" 
+                           VerticalAlignment="Top"
+                           HorizontalAlignment="Left" FontSize="22" Margin="25,40,0,0"/>
+
+                    <TextBox Width="150" Height="35" Style="{StaticResource RadiusTextBoxStyle}"  VerticalAlignment="Top"
+                           HorizontalAlignment="Left"  Margin="135,40,0,0" x:Name="AreaName"/>
+                    
+                    <Image x:Name="Ok" Stretch="Fill"
+                           Width="89" Height="38" 
+                           Source="/CenterControlEditor;component/Image/DialogOk.png" 
+                           VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="130,0,0,20"  Style="{StaticResource ImageShine}" MouseDown="SetOk"/>
+
+                    <Image x:Name="Cancel" Stretch="Fill"
+                           Width="89" Height="38" 
+                           Source="/CenterControlEditor;component/Image/Cancel.png" 
+                           VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="260,0,0,20"  Style="{StaticResource ImageShine}" MouseDown="SetCancel"/>
+                </Grid>
+
+            </Grid>
+        </Border>
+
+        </Grid>
+</Window>

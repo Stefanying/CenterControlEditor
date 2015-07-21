@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="CenterControlEditor.Controls.UserOpration"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Loaded="InitUI"  Height="40" MouseDown="SelectThis"  MouseDoubleClick="EditThis"   >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Viewbox x:Name="Name" Stretch="None">
+                <Label   HorizontalAlignment="Center"  HorizontalContentAlignment="Center"  VerticalAlignment="Center" VerticalContentAlignment="Center" x:Name="OprationName" FontSize="20" />
+            </Viewbox>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Viewbox x:Name="Type" >
+                <Label HorizontalAlignment="Left" HorizontalContentAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Center" x:Name="OprationType" />
+            </Viewbox>
+        </Grid>
+        <Grid Grid.Column="2">
+            <Viewbox x:Name="Datetype">
+                <Label   HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center"  x:Name="DateType"/>
+            </Viewbox>
+        </Grid>
+        <Grid Grid.Column="3">
+            <Viewbox x:Name="data">
+                <Label  HorizontalAlignment="Right" HorizontalContentAlignment="Right" VerticalAlignment="Center" VerticalContentAlignment="Center" x:Name="Data" />
+            </Viewbox>
+        </Grid>
+        <Grid Grid.Column="4">
+            <Viewbox x:Name="time">
+                <Label   HorizontalAlignment="Right" HorizontalContentAlignment="Right" VerticalAlignment="Center" VerticalContentAlignment="Center" x:Name="Time" />
+            </Viewbox>
+        </Grid>
+
+    </Grid>
+</UserControl>

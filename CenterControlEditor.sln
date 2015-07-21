@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterControlEditor", "CenterControlEditor\CenterControlEditor.csproj", "{B0660CA6-EF24-4E8D-B239-E48F3B98C4BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFLib", "SFLib\SFLib.csproj", "{48F65C48-7F37-4CF3-B9F8-3408C81738C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0660CA6-EF24-4E8D-B239-E48F3B98C4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0660CA6-EF24-4E8D-B239-E48F3B98C4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0660CA6-EF24-4E8D-B239-E48F3B98C4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0660CA6-EF24-4E8D-B239-E48F3B98C4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F65C48-7F37-4CF3-B9F8-3408C81738C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F65C48-7F37-4CF3-B9F8-3408C81738C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F65C48-7F37-4CF3-B9F8-3408C81738C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F65C48-7F37-4CF3-B9F8-3408C81738C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

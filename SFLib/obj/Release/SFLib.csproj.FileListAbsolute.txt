@@ -1,0 +1,5 @@
+E:\source code\CenterControlEditor\SFLib\bin\Release\SFLib.dll
+E:\source code\CenterControlEditor\SFLib\bin\Release\SFLib.pdb
+E:\source code\CenterControlEditor\SFLib\obj\Release\SFLib.dll
+E:\source code\CenterControlEditor\SFLib\obj\Release\SFLib.pdb
+E:\source code\CenterControlEditor\SFLib\obj\Release\SFLib.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\source code\CenterControlEditor\SFLib\bin\Debug\SFLib.dll
+E:\source code\CenterControlEditor\SFLib\bin\Debug\SFLib.pdb
+E:\source code\CenterControlEditor\SFLib\obj\Debug\SFLib.dll
+E:\source code\CenterControlEditor\SFLib\obj\Debug\SFLib.pdb
+F:\CenterControlEditor\SFLib\bin\Debug\SFLib.dll
+F:\CenterControlEditor\SFLib\bin\Debug\SFLib.pdb
+F:\CenterControlEditor\SFLib\obj\Debug\SFLib.dll
+F:\CenterControlEditor\SFLib\obj\Debug\SFLib.pdb
+F:\CenterControlEditor\SFLib\obj\Debug\SFLib.csprojResolveAssemblyReference.cache
+E:\ProjectFile\CenterControlEditor\SFLib\bin\Debug\SFLib.dll
+E:\ProjectFile\CenterControlEditor\SFLib\bin\Debug\SFLib.pdb
+E:\ProjectFile\CenterControlEditor\SFLib\obj\Debug\SFLib.csprojResolveAssemblyReference.cache
+E:\ProjectFile\CenterControlEditor\SFLib\obj\Debug\SFLib.dll
+E:\ProjectFile\CenterControlEditor\SFLib\obj\Debug\SFLib.pdb

@@ -1,0 +1,129 @@
+﻿<Window x:Class="CenterControlEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" mc:Ignorable="d"
+        xmlns:Controls="clr-namespace:CenterControlEditor.Controls"
+        Title="ControlCenter" WindowStyle="None"    ResizeMode="NoResize"   Width="1180"  Height="818" WindowStartupLocation="CenterScreen"  Icon="Image/logo.ico">
+    <Window.Resources>
+        <ResourceDictionary Source="Styles.xaml"></ResourceDictionary>
+    </Window.Resources>
+      
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="172"  />
+            <ColumnDefinition Width="Auto" MinWidth="500"/>
+            <ColumnDefinition Width="140"/>
+            <ColumnDefinition Width="140"  />
+            <ColumnDefinition Width="158" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="78*"/>
+            <RowDefinition Height="12*"/>
+        </Grid.RowDefinitions>
+
+        <Grid   x:Name="Header"   Grid.ColumnSpan="6"  MouseMove="MoveThis"  >
+            <Image Stretch="Fill"      Source="Image/TopBackground.png"/>
+            <Controls:SettingButton   Icon="Image/minimize.png" x:Name="MiniButton"
+                                       Width="36"
+                                       Height="36" Margin="820,0,142,1.45"    MouseDown="MiniMize_MouseDown"   />
+            <Controls:SettingButton   Icon="Image/maximize.png" x:Name="MaxButton"
+                                      Width="36"
+                                      Height="36" Margin="920,0,74,1.45"  MouseDown="MaxiMize_MouseDown" />
+            <Controls:SettingButton Icon="Image/close.png" x:Name="CloseButton"
+                                     Width="36"
+                                     Height="36" Margin="1020,0,10,1.45"  MouseDown="CloseWindow_MouseDown" />
+        </Grid>
+        
+        <Grid    Grid.Column="0"  Grid.Row="1"  Grid.RowSpan="3"  Background="#FF7FC073"/>
+        <Grid Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Background="#FFF3F3F3" >
+            <Viewbox x:Name="Title" HorizontalAlignment="Left">
+                <Label  Name="title" VerticalAlignment="Top"  HorizontalAlignment="Left"  VerticalContentAlignment="Center" HorizontalContentAlignment="Left"  Content="配置 To configure"  Foreground="#FF6C757E" FontFamily="Microsoft YaHei"  Margin="-4,0,0,0" />
+            </Viewbox>
+            <ContentControl Name="toolBar">
+                <!--<Controls:OrderToolBar    Width="250"  HorizontalAlignment="Left" Margin="480,0,0,0"  />-->
+            </ContentControl>
+        </Grid>
+        
+        <Grid Grid.Column="3" Grid.Row="1" Grid.ColumnSpan="3" Background="#FFF3F3F3">
+            <Label  Content="服务器IP:"  HorizontalAlignment="Left" VerticalAlignment="Center"  Width="127" Height="48"   FontSize="24.96" Foreground="#FF3C92C9" Margin="20,0,0,0"  />
+            <TextBox   x:Name="tbIP" Width="180" Height="35" Style="{StaticResource RadiusTextBoxStyle}"  HorizontalAlignment="Right" Margin="0,0,100,2" FontSize="25"  HorizontalContentAlignment="Center" Foreground="Blue" Text="127.0.0.1"/>
+        </Grid>
+
+        <Grid  Grid.Row="1" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="6">
+            <TabControl x:Name="TabControl1" HorizontalAlignment="Left"  Width="1180" Style="{DynamicResource  TabControlStyle1}" Background="{x:Null}"  SelectionChanged="TabControl1_SelectionChanged" >
+                <TabItem Style="{DynamicResource ControlStyle1}" >
+                    <TabItem.Header>
+                        <Canvas>
+                            <Image Source="Image/Configuring.png"  Canvas.Top="60" Canvas.Left="-16"   Style="{StaticResource  ImageShine}"     />
+                            <TextBlock  Canvas.Top="116" Canvas.Left="0" Foreground="#FF56893D"  >配置</TextBlock>
+                        </Canvas>
+                    </TabItem.Header>
+                    <Grid  Margin="20,78,0,0" Width="1110">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="14*" />
+                            <ColumnDefinition Width="27*"/>
+                            <ColumnDefinition Width="59*"/>
+                        </Grid.ColumnDefinitions>
+                      
+
+                        <Grid Grid.Column="0" x:Name="Area">
+                            <Controls:AreaContainer   x:Name="AreasEditor" />
+                        </Grid>
+                        <Grid Grid.Column="1" x:Name="Action">
+                            <Controls:ActionContainer   x:Name="ActionEditor" />
+                        </Grid>
+
+                        <Grid Grid.Column="2" x:Name="Opration">
+                            <Controls:OprationContainer  x:Name="OprationEditor" />
+                        </Grid>
+                    </Grid>
+                </TabItem>
+                
+                <TabItem  Style="{DynamicResource ControlStyle1 }">
+                    <TabItem.Header>
+                        <Canvas>
+                            <Image   Source="Image/Order.png" Canvas.Top="109" Canvas.Left="-16" Style="{StaticResource  ImageShine}" />
+                            <TextBlock  Canvas.Top="157" Foreground="#FF56893D"  >预约</TextBlock>
+                        </Canvas>
+                    </TabItem.Header>
+                    <Grid  Margin="20,81,0,0" Width="1110" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="14*"/>
+                            <ColumnDefinition Width="86*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <Controls:OrderAreaContainer/>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <Controls:OrderActionContainer />
+                        </Grid>
+                    </Grid>
+                </TabItem>
+
+                <TabItem Style="{DynamicResource ControlStyle1}">
+                    <TabItem.Header>
+                        <Canvas>
+                            <Image   Source="Image/Setting.png"  Canvas.Top="150" Canvas.Left="-16"    Style="{StaticResource  ImageShine}"/>
+                            <TextBlock Canvas.Top="203" Foreground="#FF56893D" >设置</TextBlock>
+                        </Canvas>
+                    </TabItem.Header>
+                    <Grid Margin="20,81,0,0" Width="1110"  >
+                        <Controls:SettingContainer  />
+                    </Grid>
+                </TabItem>
+            </TabControl>
+        </Grid>
+        
+        <Grid Grid.Column="2" Grid.Row="3" Grid.ColumnSpan="4">
+            <Controls:MainButton     Icon="Image/DownLoad.png" Width="100" Height="60" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="340,0,0,0" />
+            <Controls:MainButton    Icon="Image/save.png"  Width="100"  Height="60" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="560,0,0,0"   MouseDown="btnSave_Click"/>
+            <Controls:MainButton Icon="Image/UpLoad.png"  Width="100" Height="60" VerticalAlignment="Center" HorizontalAlignment="Left"  Margin="770,0,0,0" />
+        </Grid>
+    </Grid>
+</Window>

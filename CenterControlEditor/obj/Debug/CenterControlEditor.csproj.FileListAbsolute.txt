@@ -1,0 +1,296 @@
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.pdb
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojResolveAssemblyReference.cache
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\App.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.cache
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.g.resources
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.Properties.Resources.resources
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csproj.GenerateResource.Cache
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.exe
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.pdb
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.lref
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.exe
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.pdb
+E:\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe
+E:\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.pdb
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojResolveAssemblyReference.cache
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.baml
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.g.cs
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.g.cs
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\App.g.cs
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.cache
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.lref
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.baml
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\Styles.baml
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.g.resources
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.Properties.Resources.resources
+E:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csproj.GenerateResource.Cache
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Styles.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.exe
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.pdb
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.pdb
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojResolveAssemblyReference.cache
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\App.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.cache
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.lref
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\Styles.baml
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.g.resources
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.Properties.Resources.resources
+C:\Users\wangyin\Desktop\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csproj.GenerateResource.Cache
+E:\source code\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe.config
+E:\source code\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe
+E:\source code\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.dll
+E:\source code\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojFakesResolveAssemblyReference.cache
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\fakes.args
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.xml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ah
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ch
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.csproj
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.fakes
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.fakesconfig
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csproj.FileListAbsolute.txt
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csprojResolveAssemblyReference.cache
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.dll
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionSetting.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPSetting.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MainButton.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationContainer.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderActionContainer.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderAreaContainer.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderToolBar.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SerialPortSetting.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingButton.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\TextEdit.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserAction.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOpration.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionSetting.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPInput.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPSetting.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MainButton.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationContainer.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationSetting.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderActionContainer.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderAreaContainer.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderToolBar.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SerialPortSetting.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingButton.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\TextEdit.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserAction.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOpration.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\App.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.cache
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.lref
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPInput.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationSetting.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Styles.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.g.resources
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.Properties.Resources.resources
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csproj.GenerateResource.Cache
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.exe
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.pdb
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingContainer.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingContainer.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\EnSureBox.baml
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\EnSureBox.g.cs
+E:\source code\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojResolveAssemblyReference.cache
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe.config
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojFakesResolveAssemblyReference.cache
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\fakes.args
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\Microsoft.QualityTools.Testing.Fakes.dll
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.dll
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.dll
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.pdb
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.xml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.pdb
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ah
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ch
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.csproj
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.fakes
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.fakesconfig
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csproj.FileListAbsolute.txt
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csprojResolveAssemblyReference.cache
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.dll
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.pdb
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionSetting.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\EnSureBox.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPSetting.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MainButton.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationContainer.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderActionContainer.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderAreaContainer.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderToolBar.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SerialPortSetting.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingButton.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingContainer.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\TextEdit.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserAction.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOpration.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionSetting.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\EnSureBox.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPInput.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPSetting.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MainButton.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationContainer.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationSetting.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderActionContainer.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderAreaContainer.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderToolBar.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SerialPortSetting.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingButton.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingContainer.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\TextEdit.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserAction.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOpration.g.cs
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.dll
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.pdb
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPInput.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationSetting.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderSetting.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOrder.baml
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderSetting.g.cs
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOrder.g.cs
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.VisualStudio.Editor.Blend.dll
+F:\CenterControlEditor\CenterControlEditor\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+F:\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe.config
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.exe
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.pdb
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.pdb
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.VisualStudio.Editor.Blend.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.pdb
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojFakesResolveAssemblyReference.cache
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\fakes.args
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.pdb
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.xml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.pdb
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ah
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ch
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.csproj
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.fakes
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.fakesconfig
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csproj.FileListAbsolute.txt
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csprojResolveAssemblyReference.cache
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.dll
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.pdb
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojResolveAssemblyReference.cache
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionSetting.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\EnSureBox.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPSetting.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MainButton.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationContainer.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderActionContainer.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderAreaContainer.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderSetting.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderToolBar.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SerialPortSetting.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingButton.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingContainer.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\TextEdit.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserAction.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOpration.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOrder.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionContainer.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\ActionSetting.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaContainer.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\AreaSetting.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\EnSureBox.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPInput.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPSetting.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MainButton.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\MenuButton.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationContainer.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationSetting.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderActionContainer.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderAreaContainer.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderSetting.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OrderToolBar.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SerialPortSetting.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingButton.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\SettingContainer.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\TextEdit.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserAction.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserArea.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOpration.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\UserOrder.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\App.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.cache
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor_MarkupCompile.lref
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\IPInput.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Controls\OprationSetting.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Styles.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\MainWindow.baml
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.g.resources
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.Properties.Resources.resources
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csproj.GenerateResource.Cache
+E:\ProjectFiles\CenterControlEditor20150721\CenterControlEditor\bin\Debug\CenterControlEditor.exe.config
+E:\ProjectFiles\CenterControlEditor20150721\CenterControlEditor\obj\Debug\CenterControlEditor.exe
+E:\ProjectFiles\CenterControlEditor20150721\CenterControlEditor\obj\Debug\CenterControlEditor.pdb

@@ -1,0 +1,31 @@
+﻿<Root>
+  <Area>
+    <AreaName>测试1</AreaName>
+    <Action>
+      <ActionName>TCP</ActionName>
+      <ActionReceiveData>111</ActionReceiveData>
+      <Operation>
+        <OperationName>aaa</OperationName>
+        <OperationType>TCP</OperationType>
+        <OperationDataType>Character</OperationDataType>
+        <OperationData>aaabbb</OperationData>
+        <OperationTime>1</OperationTime>
+        <OperationSetting>
+          <IP>192.168.1.107</IP>
+          <Port>10000</Port>
+        </OperationSetting>
+      </Operation>
+      <Operation>
+        <OperationName>bbb</OperationName>
+        <OperationType>TCP</OperationType>
+        <OperationDataType>Hex</OperationDataType>
+        <OperationData>4130310D</OperationData>
+        <OperationTime>1</OperationTime>
+        <OperationSetting>
+          <IP>192.168.1.107</IP>
+          <Port>10000</Port>
+        </OperationSetting>
+      </Operation>
+    </Action>
+  </Area>
+</Root>

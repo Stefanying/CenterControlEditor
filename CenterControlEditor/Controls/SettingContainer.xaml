@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="CenterControlEditor.Controls.SettingContainer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="500">
+    <UserControl.Resources>
+        <ResourceDictionary Source="../Styles.xaml"></ResourceDictionary>
+    </UserControl.Resources>
+    
+    <Grid>
+        <Label Content="服务器IP："  FontSize="22" Foreground="#3c92c9"  VerticalAlignment="Top" HorizontalAlignment="Left"   Margin="11,50,0,0" Width="111"/>
+        <TextBox x:Name="tbIP"   Width="152" Height="35" Style="{StaticResource RadiusTextBoxStyle}"  VerticalAlignment="Top"
+                           HorizontalAlignment="Left"  Margin="130,55,0,0" FontSize="18"    />
+        <Button  Width="89" Height="30" Focusable="False" HorizontalAlignment="Left"  VerticalAlignment="Top"  Style="{StaticResource style1}" Content="设置"  Margin="326,56,0,0"/>
+        <Label Content="加密锁激活："  FontSize="22" Foreground="#3c92c9" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="-5,200,0,0" Width="135"  />
+        <TextBox x:Name="lbLockDogState"  Width="160" Height="35" Style="{StaticResource RadiusTextBoxStyle}" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="130,200,0,0" FontSize="18" Foreground="Red"/>
+        <Button  Width="89" Height="30" Focusable="False" HorizontalAlignment="Left"  VerticalAlignment="Top"  Style="{StaticResource ResourceKey=style1}" Content="获取"  Margin="326,204,0,0" Click="btnGetLockDogState_Click"   />
+    </Grid>
+</UserControl>
