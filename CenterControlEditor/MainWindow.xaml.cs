@@ -121,7 +121,6 @@ namespace CenterControlEditor
         private void btnSave_Click(object sender,MouseButtonEventArgs e)
         {
             SaveConfig();
- 
         }
 
         private void SaveConfig()
@@ -130,15 +129,125 @@ namespace CenterControlEditor
 
             XmlNode root = config.CreateNode(XmlNodeType.Element,"Root",null);
             config.AppendChild(root);
-            _areas = new List<Business.Area>();
-            Console.Write("_areas");
-            Console.Write(_areas.Count());
+            _areas = AreasEditor.Areas;
+            _userAction = ActionEditor.ActionList;
+            _userOperation = OprationEditor.Opration;
             #region NormalCommands
             for (int i = 0; i < _areas.Count;i++ )
             {
+                Area currentArea = _areas[i];
+                currentArea.Actions = _userAction;
+                
+                XmlNode area = config.CreateNode(XmlNodeType.Element,"Area",null);
+                XmlNode areaname = config.CreateNode(XmlNodeType.Element,"AreaName",null);
+                areaname.InnerText = currentArea.Name;
+                area.AppendChild(areaname);
+                for (int count_action = 0; count_action < currentArea.Actions.Count; count_action++)
+                {
+                    
+                    UserAction temp = currentArea.Actions[count_action];
+                    temp.Operations = _userOperation;
+                    XmlNode action = config.CreateNode(XmlNodeType.Element,"Action",null);
+                    XmlElement actionName = config.CreateElement("ActionName");
+                    actionName.InnerText = temp.Name;
+                    XmlElement receiveData = config.CreateElement("ActionReceiveData");
+                    receiveData.InnerText = temp.ReceiveCommand;
 
+                    action.AppendChild(actionName);
+                    action.AppendChild(receiveData);
+                    for (int count_opreation = 0; count_opreation < temp.Operations.Count; count_opreation++)
+                    {
+                        UserOperation operation = temp.Operations[count_opreation];
+                        XmlNode operationNode = config.CreateNode(XmlNodeType.Element,"Operation",null);
+                        XmlNode operationName = config.CreateNode(XmlNodeType.Element,"OperationName",null);
+                        operationName.InnerText = operation.Name;
+                        XmlNode operationType = config.CreateNode(XmlNodeType.Element, "OperationType", null);
+                        operationType.InnerText = operation.OpreationType.ToString();//将选择的通信方式转换成字符串格式存储到xml文件中
+
+                        XmlNode operationDataType = config.CreateNode(XmlNodeType.Element, "OperationDataType", null);
+                        operationDataType.InnerText = operation.DataType.ToString();
+
+                        XmlNode operationData = config.CreateNode(XmlNodeType.Element, "OperationData", null);
+
+                        if (operation.DataType == DataType.Hex)
+                        {
+                            operationData.InnerText = operation.Data.Replace(" ", "").Trim();
+                        }
+                        else
+                        {
+                            operationData.InnerText = operation.Data.Trim();
+                        }
+
+                        XmlNode operationTime = config.CreateNode(XmlNodeType.Element, "OperationTime", null);
+                        operationTime.InnerText = operation.Time.ToString();
+
+                        XmlNode operationSetting = config.CreateNode(XmlNodeType.Element, "OperationSetting", null);
+                        if (operation.Setting as ComSetting != null)
+                        {
+                            SaveComSetting(config, operation, operationSetting);
+                        }
+                        else if (operation.Setting as NetworkSetting != null)
+                        {
+                            SaveIPSetting(config, operation, operationSetting);
+                        }
+
+                        operationNode.AppendChild(operationName);
+                        operationNode.AppendChild(operationType);
+                        operationNode.AppendChild(operationDataType);
+                        operationNode.AppendChild(operationData);
+                        operationNode.AppendChild(operationTime);
+                        operationNode.AppendChild(operationSetting);
+
+                        action.AppendChild(operationNode);
+                    }
+                    area.AppendChild(action);
+                }
+                root.AppendChild(area);
             }
             #endregion
+
+            #region TimeShaft
+            #endregion
+            config.Save(_configFile);
+
+        }
+
+        private static void SaveIPSetting(XmlDocument config, UserOperation operation, XmlNode operationSetting)
+        {
+            NetworkSetting ns = operation.Setting as NetworkSetting;
+            XmlNode ip = config.CreateNode(XmlNodeType.Element, "IP", null);
+            ip.InnerText = ns.Ip;
+
+            XmlNode port = config.CreateNode(XmlNodeType.Element, "Port", null);
+            port.InnerText = ns.Port.ToString();
+
+            operationSetting.AppendChild(ip);
+            operationSetting.AppendChild(port);
+        }
+
+        private static void SaveComSetting(XmlDocument config, UserOperation operation, XmlNode operationSetting)
+        {
+            ComSetting cs = operation.Setting as ComSetting;
+            XmlNode comNumber = config.CreateNode(XmlNodeType.Element, "ComNumber", null);
+            comNumber.InnerText = cs.ComNumber;
+
+            XmlNode baudRate = config.CreateNode(XmlNodeType.Element, "BaudRate", null);
+            baudRate.InnerText = cs.BaudRate.ToString();
+
+            XmlNode dataBit = config.CreateNode(XmlNodeType.Element, "DataBit", null);
+            dataBit.InnerText = cs.DataBits.ToString();
+
+            XmlNode stopBit = config.CreateNode(XmlNodeType.Element, "StopBit", null);
+            stopBit.InnerText = cs.StopBits.ToString();
+
+            XmlNode parity = config.CreateNode(XmlNodeType.Element, "Parity", null);
+            parity.InnerText = cs.Parity.ToString();
+
+            operationSetting.AppendChild(comNumber);
+            operationSetting.AppendChild(baudRate);
+            operationSetting.AppendChild(dataBit);
+            operationSetting.AppendChild(stopBit);
+            operationSetting.AppendChild(parity);
         }
 
 
@@ -185,7 +294,7 @@ namespace CenterControlEditor
                                 ComSetting cs = new ComSetting();
                                 cs.ComNumber = operationSetting.SelectSingleNode("ComNumber").InnerText;
                                 cs.BaudRate = int.Parse(operationSetting.SelectSingleNode("BaudRate").InnerText);
-                                cs.DataBits = int.Parse(operationSetting.SelectSingleNode("DataBits").InnerText);
+                                cs.DataBits = int.Parse(operationSetting.SelectSingleNode("DataBit").InnerText);
                                 cs.StopBits = int.Parse(operationSetting.SelectSingleNode("StopBit").InnerText);
                                 cs.Parity = (Parity)Enum.Parse(typeof(Parity),operationSetting.SelectSingleNode("Parity").InnerText);
 

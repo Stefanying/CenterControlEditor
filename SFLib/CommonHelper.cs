@@ -8,7 +8,7 @@ namespace SFLib
 {
     class CommonHelper
     {
-        public string byte[] StrutsToBytesArray(object structObj)
+        public static byte[] StrutsToBytesArray(object structObj)
         {
             //得到结构体的大小
             int size = Marshal.SizeOf(structObj);

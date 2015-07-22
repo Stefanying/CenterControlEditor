@@ -14,7 +14,6 @@ E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFL
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\Microsoft.QualityTools.Testing.Fakes.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.pdb
-E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\f.csprojResolveAssemblyReference.cache
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\o\SFLib.Fakes.pdb

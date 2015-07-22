@@ -1,0 +1,24 @@
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.CommonHelper 生成存根: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.LoggerExitApplicationDelegate 生成存根: 类型已密封。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.Logger 生成存根: 类型已密封。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.Ip 生成存根: 类型是一个值类型。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.EnumHelper 生成存根: 类型已密封。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.ThreadProtecter 生成存根: 类型没有系列可见的构造函数。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.DisplayWindowsApi 生成存根: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.ResolutionWindowsApi 生成存根: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.SendInputWindowsApi 生成存根: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.VirtualKeyCode 生成存根: 类型是一个值类型。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.KeyModifiers 生成存根: 类型是一个值类型。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 <PrivateImplementationDetails>{B70B7BDE-48BA-40C5-8EC6-19710F914C8D} 生成存根: 类型不受支持，因为存在于内部限制。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.CheckRunner+CheckDelegate 生成填充码: 类型是一个委托。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.CheckRunner+RunDelegate 生成填充码: 类型是一个委托。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.CommonHelper 生成填充码: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.LoggerExitApplicationDelegate 生成填充码: 类型是一个委托。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.TextBoxTraceListener+AppendDelegate 生成填充码: 类型是一个委托。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.ThreadProtecter+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在于内部限制。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.DisplayWindowsApi 生成填充码: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.ResolutionWindowsApi 生成填充码: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.SendInputWindowsApi 生成填充码: 类型对 exported or assembly(SFLib.Fakes) 不可见。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.VirtualKeyCode 生成填充码: 类型是一个枚举。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 SFLib.KeyModifiers 生成填充码: 类型是一个枚举。
+E:\ProjectFile\CenterControlEditor\CenterControlEditor\Fakes\SFLib.fakes : warning : 无法为 <PrivateImplementationDetails>{B70B7BDE-48BA-40C5-8EC6-19710F914C8D} 生成填充码: 类型不受支持，因为存在于内部限制。

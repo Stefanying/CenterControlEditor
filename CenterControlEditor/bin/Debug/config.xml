@@ -1,29 +1,21 @@
-﻿<Root>
+<Root>
   <Area>
     <AreaName>测试1</AreaName>
     <Action>
-      <ActionName>TCP</ActionName>
-      <ActionReceiveData>111</ActionReceiveData>
+      <ActionName>UDP</ActionName>
+      <ActionReceiveData>222</ActionReceiveData>
       <Operation>
-        <OperationName>aaa</OperationName>
-        <OperationType>TCP</OperationType>
-        <OperationDataType>Character</OperationDataType>
-        <OperationData>aaabbb</OperationData>
-        <OperationTime>1</OperationTime>
-        <OperationSetting>
-          <IP>192.168.1.107</IP>
-          <Port>10000</Port>
-        </OperationSetting>
-      </Operation>
-      <Operation>
-        <OperationName>bbb</OperationName>
-        <OperationType>TCP</OperationType>
+        <OperationName>111</OperationName>
+        <OperationType>Com</OperationType>
         <OperationDataType>Hex</OperationDataType>
-        <OperationData>4130310D</OperationData>
-        <OperationTime>1</OperationTime>
+        <OperationData>111111</OperationData>
+        <OperationTime>0</OperationTime>
         <OperationSetting>
-          <IP>192.168.1.107</IP>
-          <Port>10000</Port>
+          <ComNumber>COM1</ComNumber>
+          <BaudRate>9600</BaudRate>
+          <DataBit>8</DataBit>
+          <StopBit>1</StopBit>
+          <Parity>None</Parity>
         </OperationSetting>
       </Operation>
     </Action>

@@ -211,10 +211,8 @@ E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEd
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.exe
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\CenterControlEditor.pdb
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
-E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\Microsoft.VisualStudio.Editor.Blend.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\SFLib.pdb
-E:\ProjectFile\CenterControlEditor\CenterControlEditor\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\CenterControlEditor.csprojFakesResolveAssemblyReference.cache
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\fakes.args
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\Microsoft.QualityTools.Testing.Fakes.dll
@@ -223,7 +221,6 @@ E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFL
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.pdb
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.Fakes.xml
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\SFLib.pdb
-E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ah
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.ch
 E:\ProjectFile\CenterControlEditor\CenterControlEditor\obj\Debug\Fakes\sfl\f.cs
