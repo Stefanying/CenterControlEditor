@@ -123,6 +123,9 @@ namespace CenterControlEditor
             SaveConfig();
         }
 
+        /// <summary>
+        /// 保存配置
+        /// </summary>
         private void SaveConfig()
         {
             XmlDocument config = new XmlDocument();
@@ -326,8 +329,48 @@ namespace CenterControlEditor
                 MessageBox.Show("未找到配置命令!");
                 
             }
+
+        }
+
+
+        #region 连接服务器
+        private void btnConnect_Click(object sender, EventArgs e)
+        {
+            _hostname = tbIP.Text.Trim();
+            _port = 10003;
+            if (_client == null || !_client.Connected)
+            {
+ 
+            }
  
         }
-      
+
+        private void Start()
+        {
+            _client = new TcpClient();
+            _client.ReceiveTimeout = 1000 * 10;
+        }
+
+        private void Connect()
+        {
+            try
+            {
+                _hostname = tbIP.Text;
+                _client.Connect(IPAddress.Parse(_hostname), _port);
+                Utility.Data.GetInstance().SaveIP(_hostname);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("连接失败",ex.Message);
+            }
+        }
+
+        private void Stop()
+        {
+            _client.Close();
+        }
+
+        #endregion
+
     }
 }
