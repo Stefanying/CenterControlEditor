@@ -340,6 +340,8 @@ namespace CenterControlEditor
             _port = 10003;
             if (_client == null || !_client.Connected)
             {
+                Start();
+                Connect();
  
             }
  
